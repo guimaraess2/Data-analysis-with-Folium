@@ -1,3 +1,7 @@
-# Data-analysis-with-Folium
+# Data-analysis-with-Folium Airbnb
 Folium builds on the data wrangling strengths of the Python ecosystem and the mapping strengths of the Leaflet.js library. Manipulate your data in Python, then visualize it in on a Leaflet map via Folium.
 This library  create a variety of maps for multiple use cases and is incredible library that allows you to build Leaflet maps. Using latitude and longitude points, Folium can allow you to create a map of any location in the world. Furthermore, Folium creates interactive maps that may allow you to zoom in and out after the map is rendered.
+
+The difference between Airbnb and hotels, and that on Airbnb there is a huge database of places to stay. If you thought about renting a small house in São Paulo, a tree house in Australia or sharing a space with a Manhattan resident, they practically cover you. Airbnb offers the opportunity to rent an entire house or even a room in a shared space and pay per night, not per person. This generally works much cheaper for large groups.
+This work deals with an Airbnb dataset that uses Machine Learning techniques to perform accommodation analysis in New York, using the folium library, which is a powerful Python data visualization library, created mainly to help people visualize data geospatial. With Folium, you can create a map of any location in the world if your latitude and longitude values are known.
+It was developed on the Google Colab platform using the Pandas library and Python language
